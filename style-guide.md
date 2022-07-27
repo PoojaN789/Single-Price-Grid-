@@ -11,22 +11,24 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Pale blue: hsl(225, 100%, 94%)
-- Bright blue: hsl(245, 75%, 52%)
+- Red: hsl(0, 78%, 62%)
+- Cyan: hsl(180, 62%, 55%)
+- Orange: hsl(34, 97%, 64%)
+- Blue: hsl(212, 86%, 64%)
 
 ### Neutral
 
-- Very pale blue: hsl(225, 100%, 98%)
-- Desaturated blue: hsl(224, 23%, 55%)
-- Dark blue: hsl(223, 47%, 23%)
+- Very Dark Blue: hsl(234, 12%, 34%)
+- Grayish Blue: hsl(229, 6%, 66%)
+- Very Light Gray: margin-left: 4%
 
 ## Typography
 
 ### Body Copy
 
-- Font size (paragraph): 16px
+- Font size: 15px
 
-### Font
+### Fonts
 
-- Family: [Red Hat Display](https://fonts.google.com/specimen/Red+Hat+Display)
-- Weights: 500, 700, 900
+- Family: [Poppins](https://fonts.google.com/specimen/Poppins)
+- Weights: 200, 400, 600
